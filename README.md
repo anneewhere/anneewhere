@@ -5,7 +5,7 @@
 
 - 🌱 I'm a scholarship recipient for a 6-month intensive software course run by SheCodes! [SheCodes](https://shecodes.com.au/)
 
-- ⚡ Fun fact **I've been a registered nurse for over 4 years! I can help you with that viral bug on the computer and at the hospital 😂**
+- ⚡ Fun fact **I've been a registered nurse for over 4 years! I can help you with that viral bug whether it'd be on the computer or at the hospital 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
