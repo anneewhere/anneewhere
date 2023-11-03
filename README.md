@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Annette!</h1>
 <h3 align="center">A highly motivated tech enthusiast with a mindset to grow and challenge my professional boundaries. With over 8 years' experience in the health industry, I pride myself with my unique perspective and highly transferrable skills.</h3>
 
-- 🔭 I’m currently working on API Networking Project at SheCodes! [API Networking Project](https://github.com/SheCodesAus/good_react-ions_group_2023_backend)
-
 - 🌱 I'm a scholarship recipient for a 6-month intensive software course run by SheCodes! [SheCodes](https://shecodes.com.au/)
 
 - ⚡ Fun fact **I've been a registered nurse for over 4 years! I can help you with that viral bug whether it'd be on the computer or at the hospital 😂**
